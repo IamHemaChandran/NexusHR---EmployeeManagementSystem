@@ -1,4 +1,4 @@
-# 🏢 HRNexus — Enterprise Employee Management System
+# 🏢 NexusHR — Enterprise Employee Management System
 
 <div align="center">
 
